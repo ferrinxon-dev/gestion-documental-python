@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "Azteca1",
+        "tipo": "PDF"
+    },
+    {
+        "id": 2,
+        "nombre": "TvAzteca",
+        "tipo": "Word"
+    }
+]
